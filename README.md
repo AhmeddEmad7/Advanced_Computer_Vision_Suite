@@ -5,7 +5,7 @@ Welcome to the Advanced Computer Vision Suite, a powerful tool designed by PyQt 
 ## Application Overview
 Here is a visualization of how does our application look like:
 
-![Overview](assets/app_overview.png)
+<img width = '900' src='assets/app_overview.png'>
 
 ## Setup and Installation
 
@@ -146,9 +146,10 @@ adjust the contrast of an image by redistributing pixel intensities.
 
 This feature converts color images to grayscale and generates histograms for each RGB channel (colored image) OR for the pixels' intensities (gray image). This allows users to visualize the distribution of pixel intensities in a single channel OR in individual color channels, aiding in image analysis and processing.
 
+#### GS Analysis:
 ![GS Plotter](assets/gs_plotter.png)
 
-
+#### RGB Analysis:
 ![RGB Plotter](assets/rgb_plotter.png)
 
 ### 7. Generating Hybrid Images
